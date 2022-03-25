@@ -9,6 +9,7 @@ brew "wget"
 brew "yq"
 # あとでasdfにする
 brew "tfenv"
+brew "asdf"
 
 cask "alfred"
 cask "appcleaner"
