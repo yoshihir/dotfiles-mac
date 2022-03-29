@@ -7,9 +7,8 @@ brew "tree"
 brew "vegeta"
 brew "wget"
 brew "yq"
-# あとでasdfにする
-brew "tfenv"
 brew "asdf"
+brew "gpg"
 
 cask "alfred"
 cask "appcleaner"
