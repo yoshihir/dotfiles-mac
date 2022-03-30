@@ -39,8 +39,18 @@ asdf global terraform "$(asdf list terraform | tail -1 | sed -e 's/ //g')"
 # === asdf-java ===
 # Install plugin
 asdf plugin-add java https://github.com/halcyon/asdf-java.git
-# Install terraform
+# Install java
 asdf install java adoptopenjdk-17.0.2+8
 asdf global java adoptopenjdk-17.0.2+8
 
+
+# === asdf-gradle ===
+# Install plugin
+asdf plugin-add gradle https://github.com/rfrancis/asdf-gradle.git
+# Install java
+asdf install gradle latest
+asdf global gradle "$(asdf list gradle | tail -1 | sed -e 's/ //g')"
+
+echo "asdf install list"
+asdf current
 echo "👍 asdf install is done!"
