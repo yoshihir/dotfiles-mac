@@ -9,6 +9,7 @@ brew "wget"
 brew "yq"
 brew "asdf"
 brew "gpg"
+brew "starship"
 
 cask "alfred"
 cask "appcleaner"
