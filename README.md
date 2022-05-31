@@ -1,5 +1,16 @@
 # dotfiles-mac
 
+## 進捗
+### 残り作業
+- starshipの設定(なくても良さそうだが...)
+    - https://zenn.dev/oosuke3/scraps/38a42f48c6dba4
+    - https://yiskw713.hatenablog.com/entry/2021/06/20/143130
+- iterm2の設定
+    - https://qiita.com/bugfire/items/c89119e42992a6142a58
+    - https://zenn.dev/cohky/articles/tell-me-the-dotfiles
+    - https://qiita.com/ruwatana/items/8d9c174250061721ad11
+- vscodeの設定
+
 ## 参考
 https://www.takameron.info/post/dotfiles/
 
