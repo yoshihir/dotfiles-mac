@@ -29,7 +29,6 @@ cask "skitch"
 cask "sourcetree"
 cask "the-unarchiver"
 cask "visual-studio-code"
-# cask "zoom"
+cask "zoom"
 cask "docker"
-
-
+cask "rectangle"
