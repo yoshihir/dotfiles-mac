@@ -10,9 +10,4 @@ for f in .??*; do
     ln -snfv ${PWD}/"$f" ~/
 done
 
-
-# Zinit (Zsh plugin manager)
-sh -c "$(curl -fsSL https://git.io/zinit-install)"
-echo ". .plugins.zsh" >> ~/.zshrc
-
 echo "👍 dotfiles link is done!"
